@@ -6,3 +6,32 @@ summaryLength = 25
 copyright = "Pete Shima - All rights reserved"
 disqusShortname = "mostlyoperational-1"
 googleAnalytics = "UA-27389150-1"
+
+[params.author]
+  name = "Pete Shima"
+  thumbnail = "/images/author.jpg"
+  description = "Site Owner"
+
+[params.index]
+  picture = "/images/quiteoperational.jpg"
+  title = ""
+  subtitle = "Ohh I'm afraid the deflector shield will be quite operational."
+  mdtext = '''Biggest incident review ever'''
+  alertbar = true
+
+[params.social]
+  github = "pshima"
+  linkedin = "peteshima"
+  twitter = "petey5k"
+
+
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts"
+[[menu.main]]
+    name = "About Me"
+    identifier = "about"
+    weight = 200
+    url = "/"
