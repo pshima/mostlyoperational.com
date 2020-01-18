@@ -3,7 +3,7 @@ languageCode = "en-us"
 title = "Mostly Operational"
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
-copyright = "Pete Shima - All rights reserved"
+copyright = "Pete Shima"
 disqusShortname = "mostlyoperational-1"
 googleAnalytics = "UA-27389150-1"
 
