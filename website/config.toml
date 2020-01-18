@@ -1,11 +1,15 @@
 baseURL = "http://mostlyoperational.com/"
 languageCode = "en-us"
-title = "Mostly Operational"
+title = ""
 theme = "mediumish-gohugo-theme"
 summaryLength = 25
 copyright = "Pete Shima"
 disqusShortname = "mostlyoperational-1"
 googleAnalytics = "UA-27389150-1"
+
+[params]
+  logo = "/images/icon.png"
+  description =""
 
 [params.author]
   name = "Pete Shima"
