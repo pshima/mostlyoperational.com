@@ -14,13 +14,13 @@ googleAnalytics = "UA-27389150-1"
 [params.author]
   name = "Pete Shima"
   thumbnail = "/images/author.jpg"
-  description = "Site Owner"
+  description = "Site Author"
 
 [params.index]
   picture = "/images/quiteoperational.jpg"
   title = ""
-  subtitle = "Ohh I'm afraid the deflector shield will be quite operational."
-  mdtext = '''Biggest incident review ever'''
+  subtitle = "Ohh, I'm afraid the deflector shield will be quite operational."
+  mdtext = '''**And the post incident review was epic.**'''
   alertbar = true
 
 [params.social]
@@ -35,7 +35,7 @@ googleAnalytics = "UA-27389150-1"
     identifier = "posts"
     url = "/posts"
 [[menu.main]]
-    name = "About Me"
+    name = "Slash"
     identifier = "about"
     weight = 200
     url = "/"
