@@ -1,4 +1,4 @@
-baseURL = "http://mostlyoperational.com/"
+baseURL = "https://mostlyoperational.com/"
 languageCode = "en-us"
 title = ""
 theme = "mediumish-gohugo-theme"
