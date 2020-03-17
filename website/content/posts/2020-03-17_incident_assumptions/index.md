@@ -21,7 +21,7 @@ aliases:
 
 ### The world is on fire
 
-If you have been in a large number of high severity incidents you have probably been at one time or another in a place where what you thought was happening based on graphs, logs or other data wasn’t what was really happening.  Some important bit in the code, workflow, process or user case was missing. Or perhaps you were sitting there wondering to yourself, “How is this possibly working?”
+If you have been through a large number of high severity events, you've probably found yourself working with a mental model based on graphs, logs, or other telemetry -- except the model was completely wrong.
 
 The pressure is on, the site is down, or maybe you think all the data is missing, or you’ve just launched something new and amazing but the world started melting.  At this point you probably have a number of experts engaged, or in a lot of cases with this high severity of an issue, maybe you have engaged everyone that could possibly help.  Hopefully you have an organization that understands that shit happens and binds together to resolve the issue.
 
@@ -77,3 +77,9 @@ Often a single event or log line or instrumenting a new event could help prove o
 
 #### Have a readily available, easy to test environment
 Testing in production at large scale safely is important, but sometimes you need to do deeper validation.  If you don’t have a place to test it and can’t spin up something quickly then validating these changes will likely take significantly longer than they need to.
+
+### Ship what works for you
+
+There's a lot to unfold here and incidents that span hours may feel like minutes and it can be hard to develop good habits.  Having a lot of incidents?  Just pick one thing that might work for you or your organization and try to integrate it.  You don't need to do all of these to be successful and there may be some that are not right for your organization.  Do what works for you.
+
+
